@@ -1,0 +1,6 @@
+especie	Mus_musculus	Rattus_norvegicus	Homo_sapiens	Gallus_gallus	Danio_rerio
+Mus_musculus	100	89.1	78	52.9	51.4
+Rattus_norvegicus	89.1	100	78.6	54.2	51
+Homo_sapiens	78	78.6	100	56.9	51
+Gallus_gallus	52.9	54.2	56.9	100	52.3
+Danio_rerio	51.4	51	51	52.3	100
