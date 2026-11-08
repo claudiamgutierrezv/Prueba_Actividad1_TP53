@@ -1,0 +1,212 @@
+LOCUS       NM_205264               1555 bp    mRNA    linear   VRT 23-JUN-2025
+DEFINITION  Gallus gallus tumor protein p53 (TP53), mRNA.
+ACCESSION   NM_205264
+VERSION     NM_205264.1
+KEYWORDS    RefSeq.
+SOURCE      Gallus gallus (chicken)
+  ORGANISM  Gallus gallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Phasianinae; Gallus.
+REFERENCE   1  (bases 1 to 1555)
+  AUTHORS   Flentke,G.R., Baulch,J.W., Berres,M.E., Garic,A. and Smith,S.M.
+  TITLE     Alcohol-mediated calcium signals dysregulate pro-survival
+            Snai2/PUMA/Bcl2 networks to promote p53-mediated apoptosis in avian
+            neural crest progenitors
+  JOURNAL   Birth Defects Res 111 (12), 686-699 (2019)
+   PUBMED   31021056
+  REMARK    GeneRIF: Alcohol-mediated calcium signals dysregulate pro-survival
+            Snai2/PUMA/Bcl2 networks to promote p53-mediated apoptosis in avian
+            neural crest progenitors.
+REFERENCE   2  (bases 1 to 1555)
+  AUTHORS   Tang,H., Finn,R.D. and Thomas,P.D.
+  TITLE     TreeGrafter: phylogenetic tree-based annotation of proteins with
+            Gene Ontology terms and other annotations
+  JOURNAL   Bioinformatics 35 (3), 518-520 (2019)
+   PUBMED   30032202
+REFERENCE   3  (bases 1 to 1555)
+  AUTHORS   Menard,M., Costechareyre,C., Ichim,G., Blachier,J., Neves,D.,
+            Jarrosson-Wuilleme,L., Depping,R., Koster,J., Saintigny,P.,
+            Mehlen,P. and Tauszig-Delamasure,S.
+  TITLE     Hey1- and p53-dependent TrkC proapoptotic activity controls
+            neuroblastoma growth
+  JOURNAL   PLoS Biol 16 (5), e2002912 (2018)
+   PUBMED   29750782
+  REMARK    GeneRIF: TrkC tumor suppressor activity requires Hey1 and p53.
+REFERENCE   4  (bases 1 to 1555)
+  AUTHORS   Cai,B., Ma,M., Chen,B., Li,Z., Abdalla,B.A., Nie,Q. and Zhang,X.
+  TITLE     MiR-16-5p targets SESN1 to regulate the p53 signaling pathway,
+            affecting myoblast proliferation and apoptosis, and is involved in
+            myoblast differentiation
+  JOURNAL   Cell Death Dis 9 (3), 367 (2018)
+   PUBMED   29511169
+  REMARK    GeneRIF: SESN1 regulate p53 by a feedback mechanism which is
+            indispensable for myoblast proliferation and apoptosis.
+REFERENCE   5  (bases 1 to 1555)
+  AUTHORS   Ventura,A., do Nascimento,A.A., dos Santos,M.A., Vieira-Lopes,D.A.,
+            Sales,A. and Pinheiro,N.L.
+  TITLE     Analysis of the expression of p53 during the morphogenesis of the
+            gastroesophageal mucosa of Gallus gallus domesticus (Linnaeus,
+            1758)
+  JOURNAL   Cell Tissue Res 355 (1), 111-119 (2014)
+   PUBMED   24068480
+  REMARK    GeneRIF: Protein p53 occurs at key stages of development: in the
+            esophagus during the remodeling of esophageal glands, in the
+            proventriculus during the differentiation of the epithelium of the
+            mucosa and in the gizzard during the formation of tubular glands.
+REFERENCE   6  (bases 1 to 1555)
+  AUTHORS   Christman,S.A., Kong,B.W., Landry,M.M., Kim,H. and Foster,D.N.
+  TITLE     Contributions of differential p53 expression in the spontaneous
+            immortalization of a chicken embryo fibroblast cell line
+  JOURNAL   BMC Cell Biol 7, 27 (2006)
+   PUBMED   16813656
+  REMARK    GeneRIF: An initial down-regulation of p53 allowed the SC-2 cells
+            to bypass senescence. The inactivation of p53, and consequently
+            p21WAF1, likely contributed to the SC-2 cells becoming a fully
+            immortal cell line.
+REFERENCE   7  (bases 1 to 1555)
+  AUTHORS   Takagi,M., Takeda,T., Asada,Y., Sugimoto,C., Onuma,M. and Ohashi,K.
+  TITLE     The presence of a short form of p53 in chicken lymphoblastoid cell
+            lines during apoptosis
+  JOURNAL   J Vet Med Sci 68 (6), 561-566 (2006)
+   PUBMED   16820712
+  REMARK    GeneRIF: results suggest that the short form of p53 could play a
+            role in the initiation of apoptosis induced by the chemotherapeutic
+            compound, and that the regulation of its expression may be
+            important for the maintenance of transformation status.
+REFERENCE   8  (bases 1 to 1555)
+  AUTHORS   Trtkova,K. and Plachy,J.
+  TITLE     Deletions in the DNA-binding domain of the TP53 gene in
+            v-src-transformed chicken cells
+  JOURNAL   In Vitro Cell Dev Biol Anim 40 (8-9), 285-292 (2004)
+   PUBMED   15723564
+  REMARK    GeneRIF: Results suggest that extensive deletions are efficient
+            mechanisms of TP53 inactivation, occurring as early events during
+            the immortalization of v-src-transformed chicken cells.
+REFERENCE   9  (bases 1 to 1555)
+  AUTHORS   Huang,Q., Raya,A., DeJesus,P., Chao,S.H., Quon,K.C., Caldwell,J.S.,
+            Chanda,S.K., Izpisua-Belmonte,J.C. and Schultz,P.G.
+  TITLE     Identification of p53 regulators by genome-wide functional analysis
+  JOURNAL   Proc Natl Acad Sci U S A 101 (10), 3456-3461 (2004)
+   PUBMED   14990790
+  REMARK    GeneRIF: Nine genes previously unknown to be involved in regulating
+            p53 activity were identified. Ectopic expression of these basic
+            helix-loop-helix transcription factors activated p53 and induced
+            apoptosis.
+REFERENCE   10 (bases 1 to 1555)
+  AUTHORS   Soussi,T., Begue,A., Kress,M., Stehelin,D. and May,P.
+  TITLE     Nucleotide sequence of a cDNA encoding the chicken p53 nuclear
+            oncoprotein
+  JOURNAL   Nucleic Acids Res 16 (23), 11383 (1988)
+   PUBMED   3060861
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from X13057.1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X13057.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA103992290, SAMEA103992323
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1555
+                     /organism="Gallus gallus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9031"
+                     /breed="SPARFAS"
+     gene            1..1555
+                     /gene="TP53"
+                     /note="tumor protein p53"
+                     /db_xref="CGNC:49696"
+                     /db_xref="GeneID:396200"
+     CDS             64..1167
+                     /gene="TP53"
+                     /note="tumor suppressor p53"
+                     /codon_start=1
+                     /product="cellular tumor antigen p53"
+                     /protein_id="NP_990595.1"
+                     /db_xref="CGNC:49696"
+                     /db_xref="GeneID:396200"
+                     /translation="MAEEMEPLLEPTEVFMDLWSMLPYSMQQLPLPEDHSNWQELSPL
+                     EPSDPPPPPPPPPLPLAAAAPPPLNPPTPPRAAPSPVVPSTEDYGGDFDFRVGFVEAG
+                     TAKSVTCTYSPVLNKVYCRLAKPCPVQVRVGVAPPPGSSLRAVAVYKKSEHVAEVVRR
+                     CPHHERCGGGTDGLAPAQHLIRVEGNPQARYHDDETTKRHSVVVPYEPPEVGSDCTTV
+                     LYNFMCNSSCMGGMNRRPILTILTLEGPGGQLLGRRCFEVRVCACPGRDRKIEEENFR
+                     KRGGAGGVAKRAMSPPTEAPEPPKKRVLNPDNEIFYLQVRGRRRYEMLKEINEALQLA
+                     EGGSAPRPSKGRRVKVEGPQPSCGKKLLQKGSD"
+     misc_feature    64..153
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Transcription activation (acidic)"
+     misc_feature    151..315
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    376..378
+                     /gene="TP53"
+                     /note="Interaction with DNA. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (P10360.1); other
+                     site"
+     misc_feature    838..861
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Interaction with DNA. /evidence=ECO:0000250"
+     misc_feature    886..972
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    919..969
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Bipartite nuclear localization signal.
+                     /evidence=ECO:0000250"
+     misc_feature    985..1080
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Oligomerization"
+     misc_feature    1027..1062
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Nuclear export signal. /evidence=ECO:0000250"
+     misc_feature    1060..1164
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1102..1155
+                     /gene="TP53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P10360.1);
+                     Region: Basic (repression of DNA-binding)"
+ORIGIN      
+        1 gaattccgaa cggcggcggc ggcggcggcg aacggagggg tgccccccca gggacccccc
+       61 aacatggcgg aggagatgga accattgctg gaacccactg aggtcttcat ggacctctgg
+      121 agcatgctcc cctatagcat gcaacagctg cccctccctg aggatcacag caactggcag
+      181 gagctgagcc ccctggaacc cagcgacccc cccccaccac cgccaccacc acctctgcca
+      241 ttggccgccg ccgccccccc cccattaaac ccccccaccc ccccccgcgc tgccccctcc
+      301 ccggtggtcc catccacgga ggattatggg ggggacttcg acttccgggt ggggttcgtg
+      361 gaggcgggca cagccaaatc ggtcacctgc acttactccc cggtgctgaa taaggtctat
+      421 tgccgcctgg ccaagccgtg cccggtgcag gtgagggtgg gggtggcgcc cccccccggt
+      481 tcctccctcc gcgccgtggc cgtctataag aaatcagagc acgtggccga agtggtgcgg
+      541 cgctgccccc accacgagcg ctgcgggggg ggcaccgacg gcctggcccc cgcacagcac
+      601 ctcatccggg tggaggggaa cccccaggcg cgttaccacg acgacgagac caccaaacgg
+      661 cacagcgtcg tcgtccccta tgagcccccc gaggtgggct ctgactgtac cacggtgctg
+      721 tacaacttca tgtgcaacag ttcctgcatg ggggggatga accgccgccc catcctcacc
+      781 atccttacac tggaggggcc gggggggcag ctgttggggc ggcgctgctt cgaggtgcgc
+      841 gtgtgcgcat gtccggggag ggaccgcaag atcgaggagg agaacttccg caagaggggc
+      901 ggggccgggg gcgtggctaa gcgagccatg tcgcccccaa ccgaagcccc cgagcccccc
+      961 aagaagcgcg tgctgaaccc cgacaatgag atattctacc tgcaggtgcg cgggcgccgc
+     1021 cgctatgaga tgctgaagga gatcaatgag gcgctgcagc tcgccgaggg ggggtccgca
+     1081 ccgcggcctt ccaaaggccg ccgtgtgaag gtggagggac cccaacccag ctgcgggaag
+     1141 aaactgctgc aaaaaggctc ggactgacca cgcccccttt ttcctttagc cacgcccctt
+     1201 tcccttcagg cccggcccat ttcccttcag ccccggcccc atttcccttc agccacgccc
+     1261 aatttcccct ttaccacgcc ccctttccct tcagccacgc cccctttccc cttagccact
+     1321 ccccttcccc cgcgaaagcc ccgcccaccc ccgccgtaac cacgcccacg cttcccaccc
+     1381 ccctcccaat ctgaccacgc cccctttacg ccttaaccac gccccctctc tcctggcccc
+     1441 gcccccctcc gctttggcca tgcgtaaatc cccccccccg cccccccccg gctcattttt
+     1501 aatgcttttt ttgatacaat aaaacttctt tttttactga aaaaaaaagg aattc
+//
+

@@ -1,0 +1,503 @@
+LOCUS       NM_011640               1728 bp    mRNA    linear   ROD 03-NOV-2026
+DEFINITION  Mus musculus transformation related protein 53 (Trp53), transcript
+            variant 1, mRNA.
+ACCESSION   NM_011640
+VERSION     NM_011640.4
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1728)
+  AUTHORS   Alcaraz,M. Jr., Pandey,A., Santiago,M., Dumitras,C., Pradis,L.,
+            Gomez,E., Soto,A., Saggese,P., Krall,A.S., Liu,B., Christofk,H.R.,
+            Dubinett,S.M., Li,X. and Scafoglio,C.
+  TITLE     Dietary alpha-ketoglutarate modulates lung adenocarcinoma growth
+            and epigenetic remodeling in a sex-dependent fashion
+  JOURNAL   Cell Rep 45 (10), 118052 (2026)
+   PUBMED   42776841
+REFERENCE   2  (bases 1 to 1728)
+  AUTHORS   Leite,T.C., Hou,J., Geng,X., Mancinelli,L., Sedlacek,A.,
+            Nayak,D.A., Schoedel,K.E., Weiss,K.R., Binder,R.J., Lin,C.P. and
+            Intini,G.
+  TITLE     An immunocompetent, multifluorescent resource for real-time
+            analysis of osteosarcoma progression, metastasis, and response to
+            therapy
+  JOURNAL   Sci Adv 12 (40), eaed6938 (2026)
+   PUBMED   42826198
+REFERENCE   3  (bases 1 to 1728)
+  AUTHORS   Hagedorn,G.A., Spieser,J.C., Hirai,N., Sato,Y., Valentine,J.,
+            Jiang,H., Wang,W., Czyzyk-Krzeska,M.F. and Patra,K.C.
+  TITLE     Remodeling of mitochondrial dynamics by metabolic pathways couples
+            to oncogenic growth in GNAS (Galphas) mutant pancreas cancer
+  JOURNAL   Sci Adv 12 (40), eaeh7186 (2026)
+   PUBMED   42814831
+REFERENCE   4  (bases 1 to 1728)
+  AUTHORS   de-la-Puente-Ovejero,L., Domostegui,A., Garcia-Perez,I.M.,
+            Aizpurua,G., Lomba-Riego,L., Ximenez-Embun,P., Mayor-Ruiz,C.,
+            Barbacid,M. and Garcia-Alonso,S.
+  TITLE     RAF1 scaffold integrity shapes chemogenetic degradation outcomes in
+            KRAS-driven lung cancer models
+  JOURNAL   Life Sci Alliance 9 (12), e202603839 (2026)
+   PUBMED   42772903
+REFERENCE   5  (bases 1 to 1728)
+  AUTHORS   Zhang,W., Wang,S., Wang,M., Yu,R., Yue,J., Shao,L., Zhang,H.,
+            Zhu,M., Tian,L., Cheng,S., Qin,W., Tang,Y., Han,Y., Wang,W., An,L.,
+            Meng,Y., Jiao,S. and Zhou,Z.
+  TITLE     Targeting the YAP-BST2 Axis Overcomes Intrinsic Anti-PD-1
+            Resistance in Metastatic Gastric Cancer
+  JOURNAL   Adv Sci (Weinh), e77708 (2026) In press
+   PUBMED   42765331
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   6  (bases 1 to 1728)
+  AUTHORS   Shaulian,E., Zauberman,A., Ginsberg,D. and Oren,M.
+  TITLE     Identification of a minimal transforming domain of p53: negative
+            dominance through abrogation of sequence-specific DNA binding
+  JOURNAL   Mol Cell Biol 12 (12), 5581-5592 (1992)
+   PUBMED   1448088
+REFERENCE   7  (bases 1 to 1728)
+  AUTHORS   Beier,D.R., Dushkin,H. and Sussman,D.J.
+  TITLE     Mapping genes in the mouse using single-strand conformation
+            polymorphism analysis of recombinant inbred strains and
+            interspecific crosses
+  JOURNAL   Proc Natl Acad Sci U S A 89 (19), 9102-9106 (1992)
+   PUBMED   1409609
+REFERENCE   8  (bases 1 to 1728)
+  AUTHORS   Han,K.A. and Kulesz-Martin,M.F.
+  TITLE     Altered expression of wild-type p53 tumor suppressor gene during
+            murine epithelial cell transformation
+  JOURNAL   Cancer Res 52 (3), 749-753 (1992)
+   PUBMED   1370652
+REFERENCE   9  (bases 1 to 1728)
+  AUTHORS   Nadeau,J.H., Compton,J.G., Giguere,V., Rossant,J. and Varmuza,S.
+  TITLE     Close linkage of retinoic acid receptor genes with homeobox- and
+            keratin-encoding genes on paralogous segments of mouse chromosomes
+            11 and 15
+  JOURNAL   Mamm Genome 3 (4), 202-208 (1992)
+   PUBMED   1377062
+REFERENCE   10 (bases 1 to 1728)
+  AUTHORS   Colombo,M.P., Martinotti,A., Howard,T.A., Schneider,C.,
+            D'Eustachio,P. and Seldin,M.F.
+  TITLE     Localization of growth arrest-specific genes on mouse chromosomes
+            1, 7, 8, 11, 13, and 16
+  JOURNAL   Mamm Genome 2 (2), 130-134 (1992)
+   PUBMED   1347472
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AL731687.13.
+            
+            On May 2, 2024 this sequence version replaced NM_011640.3.
+            
+            Summary: This gene encodes tumor protein p53, which responds to
+            diverse cellular stresses to regulate target genes that induce cell
+            cycle arrest, apoptosis, senescence, DNA repair, or changes in
+            metabolism. p53 protein is expressed at low level in normal cells
+            and at a high level in a variety of transformed cell lines, where
+            it's believed to contribute to transformation and malignancy. p53
+            is a DNA-binding protein containing transcription activation,
+            DNA-binding, and oligomerization domains. It is postulated to bind
+            to a p53-binding site and activate expression of downstream genes
+            that inhibit growth and/or invasion, and thus function as a tumor
+            suppressor. Mice deficient for this gene are developmentally normal
+            but are susceptible to spontaneous tumors. Evidence to date shows
+            that this gene contains one promoter, in contrast to alternative
+            promoters of the human gene, and transcribes a few of splice
+            variants which encode different isoforms, although the biological
+            validity or the full-length nature of some variants has not been
+            determined. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (1) encodes the longer isoform
+            (a).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC005448.1, X01237.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN00849374, SAMN00849375
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-113               AL731687.13        74530-74642
+            114-196             AL731687.13        81018-81100
+            197-218             AL731687.13        81384-81405
+            219-479             AL731687.13        81499-81759
+            480-663             AL731687.13        82491-82674
+            664-776             AL731687.13        82753-82865
+            777-886             AL731687.13        83268-83377
+            887-1023            AL731687.13        83700-83836
+            1024-1097           AL731687.13        83916-83989
+            1098-1204           AL731687.13        84783-84889
+            1205-1728           AL731687.13        85477-86000
+FEATURES             Location/Qualifiers
+     source          1..1728
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="11"
+                     /map="11 42.83 cM"
+     gene            1..1728
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="transformation related protein 53"
+                     /db_xref="GeneID:22059"
+                     /db_xref="MGI:MGI:98834"
+     exon            1..113
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    42..44
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="upstream in-frame stop codon"
+     CDS             114..1286
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="isoform a is encoded by transcript variant 1;
+                     cellular tumor antigen p53; p53 cellular tumor antigen;
+                     tumor supressor p53; tumor suppressor p53; mutant p53;
+                     ME-delta123p53"
+                     /codon_start=1
+                     /product="cellular tumor antigen p53 isoform a"
+                     /protein_id="NP_035770.2"
+                     /db_xref="CCDS:CCDS36193.1"
+                     /db_xref="GeneID:22059"
+                     /db_xref="MGI:MGI:98834"
+                     /translation="MTAMEESQSDISLELPLSQETFSGLWKLLPPEDILPSPHCMDDL
+                     LLPQDVEEFFEGPSEALRVSGAPAAQDPVTETPGPVAPAPATPWPLSSFVPSQKTYQG
+                     NYGFHLGFLQSGTAKSVMCTYSPPLNKLFCQLAKTCPVQLWVSATPPAGSRVRAMAIY
+                     KKSQHMTEVVRRCPHHERCSDGDGLAPPQHLIRVEGNLYPEYLEDRQTFRHSVVVPYE
+                     PPEAGSEYTTIHYKYMCNSSCMGGMNRRPILTIITLEDSSGNLLGRDSFEVRVCACPG
+                     RDRRTEEENFRKKEVLCPELPPGSAKRALPTCTSASPPQKKKPLDGEYFTLKIRGRKR
+                     FEMFRELNEALELKDAHATEESGDSRAHSSYLKTKKGQSTSRHKKTMVKKVGPDSD"
+     misc_feature    123..1064
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Interaction with CCAR2.
+                     /evidence=ECO:0000250|UniProtKB:P04637"
+     misc_feature    123..248
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Transcription activation (acidic)"
+     misc_feature    147..149
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphoserine, by HIPK4.
+                     /evidence=ECO:0000269|PubMed:18022393; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    165..167
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphoserine, by CDK5, PRPK, AMPK, NUAK1 and ATM.
+                     /evidence=ECO:0000269|PubMed:15195100; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    174..176
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphothreonine, by CK1, VRK1 and VRK2.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    180..182
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphoserine, by CHEK2, CK1 and PLK3.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    222..224
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphoserine, by MAPKAPK5.
+                     /evidence=ECO:0000269|PubMed:17254968; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    300..434
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Interaction with WWOX. /evidence=ECO:0000250"
+     misc_feature    402..1214
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Interaction with HIPK1.
+                     /evidence=ECO:0000269|PubMed:12702766"
+     misc_feature    402..1004
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Required for interaction with ZNF385A.
+                     /evidence=ECO:0000250"
+     misc_feature    441..812
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Required for interaction with FBXO42.
+                     /evidence=ECO:0000250"
+     misc_feature    450..980
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Interaction with AXIN1.
+                     /evidence=ECO:0000269|PubMed:15526030"
+     misc_feature    462..464
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Interaction with DNA.
+                     /evidence=ECO:0000269|PubMed:16717092; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); other site"
+     misc_feature    462..464
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); acetylation site"
+     misc_feature    651..653
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphoserine, by AURKB.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    879..995
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Interaction with E4F1. /evidence=ECO:0000250"
+     misc_feature    909..911
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphoserine, by AURKB.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    921..944
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Interaction with DNA"
+     misc_feature    954..956
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphothreonine, by AURKB.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    1017..1067
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Bipartite nuclear localization signal.
+                     /evidence=ECO:0000250"
+     misc_feature    1017..1019
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); acetylation site"
+     misc_feature    1047..1049
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphoserine, by AURKA, CDK1 and CDK2.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     misc_feature    1059..1184
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Interaction with HIPK2. /evidence=ECO:0000250"
+     misc_feature    1065..1067
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:23806337; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); acetylation site"
+     misc_feature    1077..1172
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Oligomerization"
+     misc_feature    1101..1103
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Omega-N-methylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); methylation site"
+     misc_feature    1107..1109
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Symmetric dimethylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); methylation site"
+     misc_feature    1113..1115
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Symmetric dimethylarginine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); methylation site"
+     misc_feature    1119..1154
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Nuclear export signal. /evidence=ECO:0000250"
+     misc_feature    1155..1283
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1179..1193
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Interaction with USP7. /evidence=ECO:0000250"
+     misc_feature    1206..1265
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: Basic (repression of DNA-binding)"
+     misc_feature    1212..1220
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     Region: [KR]-[STA]-K motif"
+     misc_feature    1212..1214
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6,N6-dimethyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; N6-methyllysine,
+                     by SMYD2, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); methylation site"
+     misc_feature    1218..1220
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6-methyllysine, by SETD7.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); methylation site"
+     misc_feature    1221..1223
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6,N6-dimethyllysine, by EHMT1 and EHMT2,
+                     alternate. /evidence=ECO:0000250|UniProtKB:P04637;
+                     propagated from UniProtKB/Swiss-Prot (P02340.4);
+                     methylation site"
+     misc_feature    1221..1223
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); acetylation site"
+     misc_feature    1245..1247
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); acetylation site"
+     misc_feature    1248..1250
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6,N6-dimethyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; N6-methyllysine,
+                     by KMT5A, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); methylation site"
+     misc_feature    1248..1250
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); acetylation site"
+     misc_feature    1278..1280
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="Phosphoserine, by CK2, CDK2 and NUAK1.
+                     /evidence=ECO:0000250|UniProtKB:P04637; propagated from
+                     UniProtKB/Swiss-Prot (P02340.4); phosphorylation site"
+     exon            114..196
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            197..218
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            219..479
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            480..663
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            664..776
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            777..886
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            887..1023
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1024..1097
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1098..1204
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1205..1728
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1707..1712
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="hexamer: AATAAA"
+     polyA_site      1728
+                     /gene="Trp53"
+                     /gene_synonym="bbl; bfy; bhy; p44; p53; Tp53"
+                     /note="major polyA site"
+ORIGIN      
+        1 agttcattgg gaccatcctg gctgtaggta gcgactacag ttagggggca cctagcattc
+       61 aggccctcat cctcctcctt cccagcaggg tgtcacgctt ctccgaagac tggatgactg
+      121 ccatggagga gtcacagtcg gatatcagcc tcgagctccc tctgagccag gagacatttt
+      181 caggcttatg gaaactactt cctccagaag atatcctgcc atcacctcac tgcatggacg
+      241 atctgttgct gccccaggat gttgaggagt tttttgaagg cccaagtgaa gccctccgag
+      301 tgtcaggagc tcctgcagca caggaccctg tcaccgagac ccctgggcca gtggcccctg
+      361 ccccagccac tccatggccc ctgtcatctt ttgtcccttc tcaaaaaact taccagggca
+      421 actatggctt ccacctgggc ttcctgcagt ctgggacagc caagtctgtt atgtgcacgt
+      481 actctcctcc cctcaataag ctattctgcc agctggcgaa gacgtgccct gtgcagttgt
+      541 gggtcagcgc cacacctcca gctgggagcc gtgtccgcgc catggccatc tacaagaagt
+      601 cacagcacat gacggaggtc gtgagacgct gcccccacca tgagcgctgc tccgatggtg
+      661 atggcctggc tcctccccag catcttatcc gggtggaagg aaatttgtat cccgagtatc
+      721 tggaagacag gcagactttt cgccacagcg tggtggtacc ttatgagcca cccgaggccg
+      781 gctctgagta taccaccatc cactacaagt acatgtgtaa tagctcctgc atggggggca
+      841 tgaaccgccg acctatcctt accatcatca cactggaaga ctccagtggg aaccttctgg
+      901 gacgggacag ctttgaggtt cgtgtttgtg cctgccctgg gagagaccgc cgtacagaag
+      961 aagaaaattt ccgcaaaaag gaagtccttt gccctgaact gcccccaggg agcgcaaaga
+     1021 gagcgctgcc cacctgcaca agcgcctctc ccccgcaaaa gaaaaaacca cttgatggag
+     1081 agtatttcac cctcaagatc cgcgggcgta aacgcttcga gatgttccgg gagctgaatg
+     1141 aggccttaga gttaaaggat gcccatgcta cagaggagtc tggagacagc agggctcact
+     1201 ccagctacct gaagaccaag aagggccagt ctacttcccg ccataaaaaa acaatggtca
+     1261 agaaagtggg gcctgactca gactgactgc ctctgcatcc cgtccccatc accagcctcc
+     1321 ccctctcctt gctgtcttat gacttcaggg ctgagacaca atcctcccgg tcccttctgc
+     1381 tgcctttttt accttgtagc tagggctcag ccccctctct gagtagtggt tcctggccca
+     1441 agttggggaa taggttgata gttgtcaggt ctctgctggc ccagcgaaat tctatccagc
+     1501 cagttgttgg accctggcac ctacaatgaa atctcaccct accccacacc ctgtaagatt
+     1561 ctatcttggg ccctcatagg gtccatatcc tccagggcct actttccttc cattctgcaa
+     1621 agcctgtctg catttatcca ccccccaccc tgtctccctc tttttttttt ttttacccct
+     1681 ttttatatat caatttccta ttttacaata aaattttgtt atcactta
+//
+

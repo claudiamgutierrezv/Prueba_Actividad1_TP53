@@ -1,0 +1,304 @@
+LOCUS       NM_131327               2233 bp    mRNA    linear   VRT 31-OCT-2026
+DEFINITION  Danio rerio tumor protein p53 (tp53), transcript variant 2, mRNA.
+ACCESSION   NM_131327
+VERSION     NM_131327.2
+KEYWORDS    RefSeq.
+SOURCE      Danio rerio (zebrafish)
+  ORGANISM  Danio rerio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Danionidae; Danioninae; Danio.
+REFERENCE   1  (bases 1 to 2233)
+  AUTHORS   Han,Z., Chen,H., Yao,Y., Bo,X., Ni,X., Liu,H., Bai,M., Li,T.,
+            Bao,L., Zhang,D. and Dong,W.
+  TITLE     Promoting Effect of (+)-Borneol on Alzheimer's Disease Treatment in
+            APP Transgenic Zebrafish and Its Blood-Brain Barrier Permeation
+            Mechanism
+  JOURNAL   Mol Neurobiol 63 (1), 868 (2026)
+   PUBMED   42668348
+REFERENCE   2  (bases 1 to 2233)
+  AUTHORS   Lin,X., Wu,J., Ying,Y., Yan,B., Wang,J., Zou,J. and Jiang,K.
+  TITLE     Zebrafish frk Gene Knockout Shows Social Impairments Relevant to
+            Autism and Delays Brain Development by Increasing Cell
+            Proliferation
+  JOURNAL   Autism Res 19 (8), e70310 (2026)
+   PUBMED   42420199
+REFERENCE   3  (bases 1 to 2233)
+  AUTHORS   Tanu,T., Cox,A.M., Karlow,J.A., Sharma,P., Sun,K., He,X., Babu,S.,
+            Roelofs,M.K., Jeon,E., Chen,J., Wu,C., Brown,J., Barrientos,N.B.,
+            McCallion,A.S., Brown,K.M., Chanock,S.J., Liu,D., Zhang,T.,
+            Burns,K.H., Boutz,P.L. and Insco,M.L.
+  TITLE     Recurrent ZC3H18 mutations stabilize oncogenic endogenous
+            retroviral RNA
+  JOURNAL   Cell Rep 45 (7), 117526 (2026)
+   PUBMED   42340846
+REFERENCE   4  (bases 1 to 2233)
+  AUTHORS   Ma,Y., Tagore,M., Hunter,M.V., Huang,T.H., Montal,E., Weiss,J.M.,
+            Shi,Y., Vallius,T., Sorger,P.K. and White,R.M.
+  TITLE     Restraint of melanoma progression by cells in the local skin
+            environment
+  JOURNAL   Elife 13, 101974 (2026)
+   PUBMED   42378027
+REFERENCE   5  (bases 1 to 2233)
+  AUTHORS   Jansen,L.U., Burhan,O.P., Hruscha,A., Tokarz,J., Prehn,C.,
+            Cecil,A., Adamski,J., Haass,C., Sun,T., Bonn,S. and Schmid,B.
+  TITLE     Hnrnpa1 is essential for early zebrafish development and lipid
+            metabolism: insights from a novel zebrafish knockout model
+  JOURNAL   Front Cell Dev Biol 14, 1789605 (2026)
+   PUBMED   42306302
+REFERENCE   6  (bases 1 to 2233)
+  AUTHORS   Rentzsch,F., Kramer,C. and Hammerschmidt,M.
+  TITLE     Specific and conserved roles of TAp73 during zebrafish development
+  JOURNAL   Gene 323, 19-30 (2003)
+   PUBMED   14659876
+REFERENCE   7  (bases 1 to 2233)
+  AUTHORS   Liu,T.X., Howlett,N.G., Deng,M., Langenau,D.M., Hsu,K., Rhodes,J.,
+            Kanki,J.P., D'Andrea,A.D. and Look,A.T.
+  TITLE     Knockdown of zebrafish Fancd2 causes developmental abnormalities
+            via p53-dependent apoptosis
+  JOURNAL   Dev Cell 5 (6), 903-914 (2003)
+   PUBMED   14667412
+REFERENCE   8  (bases 1 to 2233)
+  AUTHORS   Pan,H., Dung,H.N., Hsu,H.M., Hsiao,K.M. and Chen,L.Y.
+  TITLE     Cloning and developmental expression of p73 cDNA in zebrafish
+  JOURNAL   Biochem Biophys Res Commun 307 (2), 395-400 (2003)
+   PUBMED   12859970
+REFERENCE   9  (bases 1 to 2233)
+  AUTHORS   Yoshida,K., Aizawa,S., Watanabe,K., Hirabayashi,Y. and Inoue,T.
+  TITLE     Stem-cell leukemia: p53 deficiency mediated suppression of leukemic
+            differentiation in C3H/He myeloid leukemia
+  JOURNAL   Leuk Res 26 (12), 1085-1092 (2002)
+   PUBMED   12443880
+  REMARK    GeneRIF: p53 deficiency mediated suppression of leukemic
+            differentiation in C3H/He myeloid leukemia
+REFERENCE   10 (bases 1 to 2233)
+  AUTHORS   Lee,H. and Kimelman,D.
+  TITLE     A dominant-negative form of p63 is required for epidermal
+            proliferation in zebrafish
+  JOURNAL   Dev Cell 2 (5), 607-616 (2002)
+   PUBMED   12015968
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            JBMGRA010000005.1, CT635558.2, CT619016.1, CT704385.2 and
+            EH479527.1.
+            
+            On Nov 29, 2012 this sequence version replaced NM_131327.1.
+            
+            Transcript Variant: This variant (2) uses an alternate splice site
+            in the 5' coding region compared to variant 1. The resulting
+            protein (isoform 2) is shorter but has the same N- and C-termini
+            compared to isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: U60804.1, SRR26395012.264010.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA6786289, SAMEA6786290
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-31                JBMGRA010000005.1  24742747-24742777
+            32-695              CT635558.2         1-664
+            696-818             CT619016.1         657-779
+            819-1520            CT704385.2         51-752
+            1521-2233           EH479527.1         1-713               c
+FEATURES             Location/Qualifiers
+     source          1..2233
+                     /organism="Danio rerio"
+                     /mol_type="mRNA"
+                     /strain="Tuebingen"
+                     /db_xref="taxon:7955"
+                     /chromosome="5"
+                     /map="5"
+     gene            1..2233
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="tumor protein p53"
+                     /db_xref="GeneID:30590"
+                     /db_xref="ZFIN:ZDB-GENE-990415-270"
+     exon            1..169
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    127..129
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="upstream in-frame stop codon"
+     exon            170..224
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             172..1293
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="isoform 2 is encoded by transcript variant 2; tumor
+                     suppressor p53; cellular tumor antigen p53; delta113 p53"
+                     /codon_start=1
+                     /product="cellular tumor antigen p53 isoform 2"
+                     /protein_id="NP_571402.1"
+                     /db_xref="GeneID:30590"
+                     /db_xref="ZFIN:ZDB-GENE-990415-270"
+                     /translation="MAQNDSQEFAELWEKNLIIQPPGGGSCWDIINDEEYLPGSFDPN
+                     FFENVLEEQPQPSTLPPTSTVPETSDYPGDHGFRLRFPQSGTAKSVTCTYSPDLNKLF
+                     CQLAKTCPVQMVVDVAPPQGSVVRATAIYKKSEHVAEVVRRCPHHERTPDGDNLAPAG
+                     HLIRVEGNQRANYREDNITLRHSVFVPYEAPQLGAEWTTVLLNYMCNSSCMGGMNRRP
+                     ILTIITLETQEGQLLGRRSFEVRVCACPGRDRKTEESNFKKDQETKTMAKTTTGTKRS
+                     LVKESSSATLRPEGSKKAKGSSSDEEIFTLQVRGRERYEILKKLNDSLELSDVVPASD
+                     AEKYRQKFMTKNKKENRESSEPKQGKKLMVKDEGRSDSD"
+     misc_feature    172..264
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Transcription activation (acidic)"
+     misc_feature    325..411
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    433..435
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="Interaction with DNA. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (P79734.1); other
+                     site"
+     misc_feature    892..915
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Interaction with DNA. /evidence=ECO:0000250"
+     misc_feature    919..1074
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    991..1059
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Bipartite nuclear localization signal.
+                     /evidence=ECO:0000250"
+     misc_feature    1072..1167
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Oligomerization"
+     misc_feature    1114..1149
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Nuclear export signal. /evidence=ECO:0000250"
+     misc_feature    1156..1290
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1204..1269
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /note="propagated from UniProtKB/Swiss-Prot (P79734.1);
+                     Region: Basic (repression of DNA-binding)"
+     exon            225..273
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     exon            274..450
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     exon            451..634
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     exon            635..747
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     exon            748..857
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     exon            858..997
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     exon            998..1092
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1093..1196
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1197..2216
+                     /gene="tp53"
+                     /gene_synonym="brp53; drp53; etID22686.5; fb40d06; p53;
+                     wu:fb40d06; zgc:111919"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN      
+        1 ctgtaactag gggaatcccc aaaactccac gcggatttgc tttgtggatg tccaataacc
+       61 tccttgtttt ggtcattctt taagtcgatc gactacatat ccgggcaatc cgaaagtcga
+      121 taatcgtagt ttagtggaga ggaggtcggc aaaatcaatt cttgcaaagc aatggcgcaa
+      181 aacgacagcc aagagttcgc ggagctctgg gagaagaatt tgattattca gcccccaggt
+      241 ggtggctctt gctgggacat cattaatgat gaggagtact tgccgggatc gtttgacccc
+      301 aatttttttg aaaatgtgct tgaagaacag cctcagccat ccactctccc accaacatcc
+      361 actgttccgg agacaagcga ctatcccggc gatcatggat ttaggctcag gttcccgcag
+      421 tctggcacag caaaatctgt aacttgcact tattcaccgg acctgaataa actcttctgt
+      481 cagctggcaa aaacttgccc cgttcaaatg gtggtggacg ttgcccctcc acagggctcc
+      541 gtggttcgag ccactgccat ctataagaag tccgagcatg tggctgaagt ggtccgcaga
+      601 tgcccccatc atgagcgaac cccggatgga gataacttgg cgcctgctgg tcatttgata
+      661 agagtggagg gcaatcagcg agcaaattac agggaagata acatcacttt aaggcatagt
+      721 gtttttgtcc catatgaagc accacagctt ggtgctgaat ggacaactgt gctactaaac
+      781 tacatgtgca atagcagctg catggggggg atgaaccgca ggcccatcct cacaatcatc
+      841 actctggaga ctcaggaagg tcagttgctg ggccggaggt cttttgaggt gcgtgtgtgt
+      901 gcatgtccag gcagagacag gaaaactgag gagagcaact tcaagaaaga ccaagagacc
+      961 aaaaccatgg ccaaaaccac cactgggacc aaacgtagtt tggtgaaaga atcttcttca
+     1021 gctacattac gacctgaggg gagcaaaaag gccaagggct ccagcagcga tgaggagatc
+     1081 tttaccctgc aggtgagggg cagggagcgt tatgaaattt taaagaaatt gaacgacagt
+     1141 ctggagttaa gtgatgtggt gcctgcctca gatgctgaaa agtatcgtca gaaattcatg
+     1201 acaaaaaaca aaaaagagaa tcgtgaatca tctgagccca aacagggaaa gaagctgatg
+     1261 gtgaaggacg aaggaagaag cgactctgat taaggtgatg ggatgctaag agagaaagaa
+     1321 actgggagtt ttgctctttt tggactgcct tttttgcttt tattacacca aaaaaaaaag
+     1381 cttgtcacag gggtcatttg gggaactgcg atacatgtga tccattagtc ctgtttgtca
+     1441 tgtttcttct tgttcactcc actgggacct ttgttgctgg acactgattt tgcagtgttt
+     1501 taccagcact ggcgagggct aagactagcc tgacgtttta cagacccgtt aaatgaacgt
+     1561 tcaggaacga agtttacctg tgacttttgt aaattgtaat aatgccagta ttcggttgtt
+     1621 ttgtaagcag catttttttt tatttttata aagaaatgag tattagacta attggaacaa
+     1681 accatcggaa ttggttgcaa gccgattatg taataaaaat accaaagcaa aaccgttttg
+     1741 tatcttatat ttttttatgt taattactgc tgttcctatt tttgtatttt agctaataag
+     1801 agaagctgcc ctttataaca cgcttttaga tttagtacaa ccattgttct ttttcaattg
+     1861 aagtagttgt tgatttactc ttgtgattgt tgttgagtaa tgtggcacag ataagctcat
+     1921 aagtggccag tctgttttga catgtgcttg tgcaaatggt tatggattgg atgtctaaat
+     1981 atgagcaaat gaaatgtcaa atactcaggg catgtacaag tccctcctgg aaatcttgat
+     2041 aaaactcttc tactgtttta cctgctatag attttatgct ggttttgttt cttattactg
+     2101 tttacacgca tttgcctttt ataaatatat aagcgtgcat ttatttgtag ctagctgaat
+     2161 catttataat ttttcttttt aagagaaatg ttttaaaata cactctttaa aaaaaaaaaa
+     2221 aaaaaaaaaa aaa
+//
+
