@@ -1,0 +1,6 @@
+especie	accesion	long_ARNm_nt	GC_ARNm_pct	long_CDS_nt	GC_CDS_pct	long_proteina_aa
+Homo sapiens	NM_000546.6	2512	53.38	1182	56.85	393
+Mus musculus	NM_011640.4	1728	54.05	1173	55.67	390
+Rattus norvegicus	NM_030989.4	1745	53.07	1176	54.68	391
+Danio rerio	NM_131327.2	2233	42.5	1122	49.55	373
+Gallus gallus	NM_205264.1	1555	65.98	1104	67.21	367
